@@ -1,5 +1,5 @@
 baseURL = "https://d36.netlify.com"
-googleAnalytics = ""
+googleAnalytics = "G-1MSQGC8M1F"
 theme = "omega"
 title = "D36.ch - digitally productive"
 [markup.goldmark.renderer]
