@@ -3,8 +3,7 @@ banner:
   enable: true
   title: D36.ch
   content: Provide Swiss SMEs with digital solutions across multiple technologies
-    combined with consulting services. Address your challenges by trusting us with
-    your digital challenges as a long term partner
+    combined with consulting services.
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: true
