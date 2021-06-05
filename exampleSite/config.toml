@@ -5,30 +5,30 @@ title = "D36.ch - digitally productive"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 7
+[[menu.main]]
+name = "Career"
 pre = ""
-url = "/"
-weight = 1
+url = "career"
+weight = 6
+[[menu.main]]
+name = "Solutions"
+pre = "#"
+url = "products"
+weight = 3
 [[menu.main]]
 name = "About"
 pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
-name = "Products"
-pre = "#"
-url = "products"
-weight = 3
-[[menu.main]]
-name = "Career"
+name = "Home"
 pre = ""
-url = "career"
-weight = 4
-[[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
+url = "/"
+weight = 1
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
