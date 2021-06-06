@@ -19,10 +19,10 @@ funfacts:
   title: ''
   funfacts_item:
   - name: Service Management
-    icon: ''
+    icon: fa-check
     content: ServiceNow
   - name: Enterprise Resource Planning
-    icon: ''
+    icon: fa-cog
     content: SAP, ERP, Data Integration
 career:
   enable: false
