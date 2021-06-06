@@ -20,7 +20,7 @@ funfacts:
   funfacts_item:
   - name: Service Management
     icon: fa-check
-    content: ServiceNow
+    content: Service-Now
   - name: Enterprise Resource Planning
     icon: fa-cog
     content: SAP, ERP, Data Integration
