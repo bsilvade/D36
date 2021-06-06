@@ -48,22 +48,6 @@ map_marker = "images/map-marker.png"
 map_position_lat = "46.9578046"
 map_position_lng = "6.9758856"
 [[params.social]]
-icon = "fa-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "fa-twitter"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "fa-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "fa-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "fa-linkedin"
 link = "#"
 title = "linkedin"
