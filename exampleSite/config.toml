@@ -16,8 +16,8 @@ url = "career"
 weight = 6
 [[menu.main]]
 name = "Solutions"
-pre = "#"
-url = "products"
+pre = ""
+url = "solutions"
 weight = 3
 [[menu.main]]
 name = "About"
