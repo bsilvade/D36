@@ -11,10 +11,12 @@ banner:
     link: "#products"
 mission:
   enable: true
-  title: Propel Advancement
+  title: What we do
   section: MISSION
-  content: Address your challenges by trusting us with your digital challenges as
-    a long term partner
+  content: 'At D36.ch we provide a Digital 360 view of potential ways of working and
+    thinking to assist companies transform their business and scale. Combining technologies
+    and consultancy, the right tools and methods can be put to work to achieve the
+    agreed objectives. We are your portal to the next level. '
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
