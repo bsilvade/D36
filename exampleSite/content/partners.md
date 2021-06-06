@@ -10,13 +10,13 @@ about:
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
 gallery:
-  enable: true
+  enable: false
   images:
   - images/gallery/gallery-01.png
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: false
+  enable: true
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
