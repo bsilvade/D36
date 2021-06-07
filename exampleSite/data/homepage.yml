@@ -72,7 +72,6 @@ contact:
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the D36 family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join D36 family. <br>Click below to view the career opportunities we have.
   button_label: Apply Now
   button_link: career
