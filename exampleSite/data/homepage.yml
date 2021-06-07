@@ -1,7 +1,8 @@
 ---
 banner:
   enable: true
-  title: D36.ch
+  title: D36.ch is a modern consulting firm focused on strategy, technology, and business
+    transformation.
   content: We provide Swiss SME's with digital solutions across multiple technologies
     combined with consulting services.
   image: images/hero-image/hero-slider-01.jpg
