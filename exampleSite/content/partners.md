@@ -1,8 +1,7 @@
 ---
 title: Partners
 layout: career
-description: Do what you enjoy, invest for your future and reap the benefits of working
-  with the worlds first advancement company that puts people first.
+description: Coming soon
 about:
   enable: false
   title: Who we're looking for
@@ -17,24 +16,14 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title: ''
   funfacts_item:
-  - name: Flexible hours
-    icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: Free Snacks
-    icon: fa-bell-o
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: Recreation
-    icon: fa-microchip
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: 5 Working Days
-    icon: fa-plug
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Service Management
+    icon: fa-check
+    content: Service-Now
+  - name: Enterprise Resource Planning
+    icon: fa-cog
+    content: SAP, ERP, Data Integration
 career:
   enable: false
   title: Job Opening

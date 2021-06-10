@@ -1,22 +1,21 @@
 ---
 title: Services
-layout: "career"
-description: Do what you enjoy, invest for your future and reap the benefits of working
-  with the worlds first advancement company that puts people first.
+layout: career
+description: Coming soon
 about:
-  enable: true
+  enable: false
   title: Who we're looking for
   content: Bright, educated and hard working individuals who put professionalism first.
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
 gallery:
-  enable: true
+  enable: false
   images:
   - images/gallery/gallery-01.png
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: true
+  enable: false
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
@@ -36,7 +35,7 @@ funfacts:
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer

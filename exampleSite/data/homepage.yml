@@ -2,8 +2,9 @@
 banner:
   enable: true
   title: D36.ch
-  content: We provide Swiss SME's with digital solutions across multiple technologies
-    combined with consulting services.
+  content: We are a modern consulting firm focused on strategy, technology, and business
+    transformation.</br> We provide Swiss enterprises and SME's with digital solutions
+    across multiple technologies combined with consulting services.
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: true
@@ -71,7 +72,6 @@ contact:
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join D36. <br>Click below to view the career opportunities we have.
   button_label: Apply Now
   button_link: career

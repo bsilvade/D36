@@ -16,8 +16,8 @@ url = "career"
 weight = 6
 [[menu.main]]
 name = "Solutions"
-pre = "#"
-url = "products"
+pre = ""
+url = "solutions"
 weight = 3
 [[menu.main]]
 name = "About"
@@ -41,12 +41,12 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBWP4b8y-6funfj9FY1agd3_In-QYb6etk"
+gmap_api = "${{ GMAPS_API_KEY }}"
 map_center_lat = "47.11079242069359"
 map_center_lng = " 6.336883820692627"
 map_marker = "images/map-marker.png"
-map_position_lat = "46.9578046"
-map_position_lng = "6.9758856"
+map_position_lat = "46.95147816259209"
+map_position_lng = "7.02686743208056"
 [[params.social]]
 icon = "fa-linkedin"
 link = "#"
