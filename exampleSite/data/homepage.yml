@@ -14,10 +14,10 @@ mission:
   enable: true
   title: What we do
   section: MISSION
-  content: 'At D36.ch we provide a Digital 360 view of potential ways of working and
-    thinking to assist companies transform their business and scale. Combining technologies
-    and consultancy, the right tools and methods can be put to work to achieve the
-    agreed objectives. We are your portal to the next level. '
+  content: "<mark>At D36.ch we provide a Digital 360 view of potential ways of working
+    and thinking to assist companies transform their business and scale. Combining
+    technologies and consultancy, the right tools and methods can be put to work to
+    achieve the agreed objectives. We are your portal to the next level.</mark>"
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
