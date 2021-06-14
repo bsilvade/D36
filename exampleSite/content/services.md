@@ -15,4 +15,8 @@ funfacts:
   - name: DevOps as a Service
     icon: fa-code
     content: Apps, backend, web, mobile, software certification
+menu:
+  main:
+    weight: 4
+
 ---

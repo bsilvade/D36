@@ -16,18 +16,18 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title:
+  title: 
   funfacts_item:
-  - name: "Digital Health"
-    icon: "fa-heartbeat"
+  - name: Digital Health
+    icon: fa-heartbeat
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
-  - name: "Fintech"
-    icon: "fa-credit-card"
+  - name: Fintech
+    icon: fa-credit-card
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
-  - name: "Agrotech"
-    icon: "fa-gear"
+  - name: Agrotech
+    icon: fa-gear
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 menu:
