@@ -1,7 +1,7 @@
 ---
 title: Segments
 layout: career
-description: Coming soon
+description: More information coming soon
 about:
   enable: false
   title: Who we're looking for
