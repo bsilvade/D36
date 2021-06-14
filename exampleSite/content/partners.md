@@ -21,7 +21,7 @@ funfacts:
   - name: Service Management
     icon: fa-check
     content: Service-Now
-  - name: Enterprise Resource Planning
+  - name: ERP and Integration
     icon: fa-cog
     content: SAP, ERP, Data Integration
   - name: DevOps as a Service
