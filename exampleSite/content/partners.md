@@ -23,7 +23,7 @@ funfacts:
     content: Service-Now
   - name: ERP and Integration
     icon: fa-cog
-    content: SAP, ERP, Data Integration
+    content: SAP
   - name: DevOps as a Service
     icon: fa-code
     content: Apps, backend, web, mobile, software certification
