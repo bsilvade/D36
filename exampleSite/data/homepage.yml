@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: D36.ch
+  title: "<mark>D36.ch</mark>"
   content: "<mark>We are a modern consulting firm focused on strategy, technology,
     and business transformation.</br> We provide Swiss enterprises and SME's with
     digital solutions across multiple technologies combined with consulting services.</mark>"
@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: WHAT WE DO
-    link: "#products"
+    link: "/services"
 mission:
   enable: true
   title: What we do
