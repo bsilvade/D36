@@ -1,4 +1,4 @@
-baseURL = "https://d36.netlify.com"
+baseURL = "https://d36.ch"
 googleAnalytics = "G-1MSQGC8M1F"
 theme = "omega"
 title = "D36.ch - digitally productive"
@@ -26,7 +26,7 @@ url = "/"
 weight = 1
 [params]
 author = "Themefisher"
-contact_info = "D36.CH Sàrl <br> Chemin derrière les Vignes 23d <br> 1588 Cudrefin <br> Switzerland"
+contact_info = "<mark>D36.CH Sàrl <br> Chemin derrière les Vignes 23d <br> 1588 Cudrefin <br> Switzerland</mark>"
 description = "This is meta description"
 logo = "images/d36-logo.png"
 logo_width = "120px"
