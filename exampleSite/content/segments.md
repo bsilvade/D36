@@ -16,7 +16,7 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title:  Market segments we are working on
   funfacts_item:
   - name: Digital Health
     icon: fa-notes-medical
