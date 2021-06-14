@@ -15,25 +15,18 @@ gallery:
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: false
-  title: amenities for you to enjoy
+  enable: true
+  title: ''
   funfacts_item:
-  - name: Flexible hours
-    icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: Free Snacks
-    icon: fa-bell-o
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: Recreation
-    icon: fa-microchip
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
-  - name: 5 Working Days
-    icon: fa-plug
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Service Management
+    icon: fa-check
+    content: Service-Now
+  - name: ERP and Integration
+    icon: fa-cog
+    content: SAP
+  - name: DevOps as a Service
+    icon: fa-code
+    content: Apps, backend, web, mobile, software certification
 career:
   enable: false
   title: Job Opening

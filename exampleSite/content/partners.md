@@ -15,7 +15,7 @@ gallery:
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: true
+  enable: false
   title: ''
   funfacts_item:
   - name: Service Management
