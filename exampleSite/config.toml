@@ -15,11 +15,6 @@ pre = ""
 url = "career"
 weight = 6
 [[menu.main]]
-name = "Solutions"
-pre = ""
-url = "solutions"
-weight = 3
-[[menu.main]]
 name = "About"
 pre = "#"
 url = "mission"
