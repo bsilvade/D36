@@ -30,5 +30,8 @@ funfacts:
     icon: fa-tractor
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
+menu:
+  main:
+    weight: 3
 
 ---

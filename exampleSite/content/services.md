@@ -88,6 +88,7 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 menu:
   main:
+    name: Technologies & Services
     weight: 4
 
 ---
