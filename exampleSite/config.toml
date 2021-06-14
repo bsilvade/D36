@@ -43,6 +43,10 @@ map_marker = "images/map-marker.png"
 map_position_lat = "46.95147816259209"
 map_position_lng = "7.02686743208056"
 [[params.social]]
+icon = "fa-mail"
+link = "mailto:info@d36.ch"
+title = "e-mail"
+[[params.social]]
 icon = "fa-linkedin"
 link = "#"
 title = "linkedin"
