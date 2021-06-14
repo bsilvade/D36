@@ -1,5 +1,5 @@
 ---
-title: Segments
+title: Market Segments We are Working
 layout: career
 description: Coming soon
 about:
@@ -16,7 +16,7 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title:  Market segments we are working on
+  title:
   funfacts_item:
   - name: "Digital Health"
     icon: "fa-heartbeat"
