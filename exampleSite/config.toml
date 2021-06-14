@@ -5,6 +5,11 @@ title = "D36.ch - digitally productive"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Segments"
+pre = ""
+url = "/segments"
+weight = ""
+[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
