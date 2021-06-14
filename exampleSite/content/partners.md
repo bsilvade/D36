@@ -1,7 +1,7 @@
 ---
 title: Partners
 layout: career
-description: Coming soon
+description: More informatiom coming soon
 about:
   enable: false
   title: Who we're looking for
@@ -24,6 +24,9 @@ funfacts:
   - name: Enterprise Resource Planning
     icon: fa-cog
     content: SAP, ERP, Data Integration
+  - name: DevOps as a Service
+    icon: fa-code
+    content: Apps, backend, web, mobile, software certification
 career:
   enable: false
   title: Job Opening
