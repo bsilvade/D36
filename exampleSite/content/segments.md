@@ -1,5 +1,5 @@
 ---
-title: Market Segments We are Working
+title: Segments
 layout: career
 description: Coming soon
 about:
