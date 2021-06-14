@@ -19,15 +19,15 @@ funfacts:
   title:  Market segments we are working on
   funfacts_item:
   - name: "Digital Health"
-    icon: "fa-notes-medical"
+    icon: "fa-heartbeat"
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
   - name: "Fintech"
-    icon: "fa-wallet"
+    icon: "fa-credit-card"
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
   - name: "Agrotech"
-    icon: "fa-microchip"
+    icon: "fa-gear"
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 menu:
