@@ -1,6 +1,6 @@
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ with site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
+<script src="{{ getenv . | safeURL }}"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
