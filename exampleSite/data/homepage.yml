@@ -37,8 +37,8 @@ vision:
   - title: Global Positioning
     image: images/vision/vision-03.jpg
     content: "<mark>We leverage our global positioning and network to scout world-class
-      technology, combined with a skillful engineering workforce to maximize the return
-      of your digital transformation process while ensuring business continuity.</mark>"
+      technology, combined with a skillful engineering workforce that maximizes the
+      return of your digital transformation process while ensuring business continuity.</mark>"
 product:
   enable: true
   section: Products
