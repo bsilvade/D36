@@ -35,11 +35,12 @@ vision:
     content: "<mark>We can help you make more sense of your data through a unique
       data visualization and integration platform that combined with the latest machine
       learning and artificial intelligence models can help you achieve your goals.</mark>"
-  - title: Global Positioning
+  - title: Digital Transformation
     image: images/vision/vision-03.jpg
     content: "<mark>We leverage our global positioning and network to scout world-class
-      technology, combined with a skillful engineering workforce that maximizes the
-      return of your digital transformation process while ensuring business continuity.</mark>"
+      technology, combined with a skillful engineering workforce with the ability
+      to execute. We maximize the return of your digital transformation process while
+      ensuring business continuity.</mark>"
 product:
   enable: true
   section: Products
