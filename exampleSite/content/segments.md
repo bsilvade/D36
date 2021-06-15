@@ -32,6 +32,6 @@ funfacts:
       needs.
 menu:
   main:
-    weight: 6
+    weight: 3
 
 ---
