@@ -26,10 +26,10 @@ vision:
   vision_item:
   - title: Technology Agnostic
     image: images/vision/vision-01.jpg
-    content: With technology we transform your business   As trusted partners, we
-      strive to provide you with resource efficiency to achieve more business goals
+    content: "<mark>With technology we transform your business   As trusted partners,
+      we strive to provide you with resource efficiency to achieve more business goals
       in a shorter period of time and effort. This is achieved by combining technology
-      resources and a consultancy layer.
+      resources and a consultancy layer.</mark>"
   - title: Data Optimization
     image: images/vision/vision-02.jpg
     content: "<mark>We can help you make more sense of your data through a unique
