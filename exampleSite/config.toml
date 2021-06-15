@@ -36,7 +36,7 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = [[params.GMAPS_API_KEY]]
+gmap_api = HUGO_GMAPS_API_KEY
 map_center_lat = "47.11079242069359"
 map_center_lng = " 6.336883820692627"
 map_marker = "images/map-marker.png"
