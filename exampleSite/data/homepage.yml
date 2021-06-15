@@ -32,8 +32,9 @@ vision:
       resources and a consultancy layer.
   - title: Data Optimization
     image: images/vision/vision-02.jpg
-    content: We can help you make more from your data through big data tools customized.
-      to your needs and goals.
+    content: "<mark>We can help you make more sense of your data through a unique
+      data visualization and integration platform that combined with the latest machine
+      learning and artificial intelligence models can help you achieve your goals.</mark>"
   - title: Global Positioning
     image: images/vision/vision-03.jpg
     content: "<mark>We leverage our global positioning and network to scout world-class
