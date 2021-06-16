@@ -1,7 +1,7 @@
 ---
-title: Partners
+title: Insights
 layout: career
-description: More informatiom coming soon
+description: How we see technology and transformation evolving
 about:
   enable: false
   title: Who we're looking for
